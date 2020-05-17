@@ -919,9 +919,8 @@
 #define BLTOUCH_HS_MODE
 
 //https://github.com/bigtreetech/BIGTREETECH-SKR-V1.3/issues/207#issuecomment-623885687
-// Adding this because I could not find these lines for uncommenting in this version of the file.
+// Adding this because I could not find this line for uncommenting in this version of the file.
 #define USE_PROBE_FOR_Z_HOMING
-#define Z_SAFE_HOMING
 
 /**
  * Pressure sensor with a BLTouch-like interface
